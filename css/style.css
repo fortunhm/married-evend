@@ -1,0 +1,30 @@
+
+.carousol-image{
+    height: 527px;
+}
+.button-logo{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+.card-button{
+    color: #4641a0;
+    border-radius: 8px;
+    padding: 9px 25px;
+    background-color: #F496D1;
+    /* Opacity: 15%; */
+    cursor: pointer;
+    text-decoration: none;
+}
+.card-container:hover{
+    transform: translateY(-25px);
+    transition:  transform 1s ease-out 0.2s;
+}
+.apple-custom img{
+    /* overflow: hidden; */
+    color: #FFFFFF
+}
