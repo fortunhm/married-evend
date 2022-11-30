@@ -24,7 +24,8 @@
     transform: translateY(-25px);
     transition:  transform 1s ease-out 0.2s;
 }
-.apple-custom img{
+.apple-custom {
     /* overflow: hidden; */
-    color: #FFFFFF
+    color: #FFFFFF;
+    
 }
